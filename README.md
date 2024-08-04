@@ -1,8 +1,10 @@
 
- [![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
+ ![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Ebubekir Yağmur</h1>
 <h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebubekiryagmur&show_icons=true&locale=en" alt="ebubekiryagmur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekiryagmur&" alt="ebubekiryagmur" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebubekiryagmur&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekiryagmur" /> </p>
 
